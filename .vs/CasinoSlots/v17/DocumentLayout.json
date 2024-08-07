@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Users\\jmbas\\source\\repos\\CasinoSlots\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4A14B7C6-946F-415A-8421-42D48E2EBA88}|CasinoSlots\\CasinoSlots.csproj|e:\\users\\jmbas\\source\\repos\\casinoslots\\casinoslots\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A14B7C6-946F-415A-8421-42D48E2EBA88}|CasinoSlots\\CasinoSlots.csproj|solutionrelative:casinoslots\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A14B7C6-946F-415A-8421-42D48E2EBA88}|CasinoSlots\\CasinoSlots.csproj|e:\\users\\jmbas\\source\\repos\\casinoslots\\casinoslots\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{4A14B7C6-946F-415A-8421-42D48E2EBA88}|CasinoSlots\\CasinoSlots.csproj|solutionrelative:casinoslots\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "E:\\Users\\jmbas\\source\\repos\\CasinoSlots\\CasinoSlots\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "CasinoSlots\\Default.aspx.cs",
+              "ToolTip": "E:\\Users\\jmbas\\source\\repos\\CasinoSlots\\CasinoSlots\\Default.aspx.cs",
+              "RelativeToolTip": "CasinoSlots\\Default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:05:08.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Default.aspx",
               "DocumentMoniker": "E:\\Users\\jmbas\\source\\repos\\CasinoSlots\\CasinoSlots\\Default.aspx",
               "RelativeDocumentMoniker": "CasinoSlots\\Default.aspx",
